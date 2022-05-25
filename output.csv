@@ -1,0 +1,7 @@
+Name of compound,SMILES notation,Toxicity
+Quinic acid,OC1(CC(O)C(O)C(O)C1)C(=O)O,0.4124217
+Beta citronellol,C\C(C)=C\CCC(C)CCO,0.10696954
+Gallicacid,Oc1cc(cc(O)c1O)C(=O)O,0.6952676
+ Borneol,CC12CCC(CC1O)C2(C)C,0.11582812
+Esculetin,Oc1cc2C=CC(=O)Oc2cc1O,0.6403132
+ Geraniol,C\C(C)=C\CCC(\C)=C\CO,0.1448573
