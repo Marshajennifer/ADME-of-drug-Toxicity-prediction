@@ -4,6 +4,7 @@ Drug-induced liver injury (DILI) is fatal liver disease caused by drugs and it h
 Paper: 'https://www.scopus.com/record/display.uri?eid=2-s2.0-85170522479&origin=resultslist'
 
 If you use this work, please cite the paper:
+'''
 @ARTICLE{Kappan20231107,
 	author = {Kappan, Marsha Mariya and George, Joby},
 	title = {In Silico Pharmacokinetic and Molecular Docking Studies of Natural Plants against Essential Protein KRAS for Treatment of Pancreatic Cancer},
